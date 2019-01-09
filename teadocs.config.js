@@ -3,7 +3,7 @@ const path = require('path')
 
 module.exports = {
     doc: {
-        name: "Web之幸运",
+        name: "Web之幸",
         description: "",
         version: "",
         dir: "",
